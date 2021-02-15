@@ -1,4 +1,4 @@
-# BERT classifier
+# English level BERT classifier
 
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/Solvve/ml_gas_stations_forecast/blob/master/LICENSE.txt)
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-378/)
